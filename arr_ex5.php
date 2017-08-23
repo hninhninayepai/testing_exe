@@ -12,5 +12,6 @@ foreach ($original as $x)
 {echo "$x ";}
 echo "\n"
 
+echo "testing";
 ?>
 
