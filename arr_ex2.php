@@ -8,5 +8,4 @@ asort($ceu);
 
 
 
-
-?>
+echo "one testing";
